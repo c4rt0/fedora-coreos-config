@@ -2251,7 +2251,7 @@
       }
     },
     "selinux-policy": {
-      "evra": "40.20-1.fc40.noarch",
+      "evra": "40.27-1.fc40.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
